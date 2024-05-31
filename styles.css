@@ -1,0 +1,16 @@
+.Mayusculas{
+    text-transform: uppercase;
+}
+body{
+    background-color: aqua;
+    background-image: url(fondo.jpg);
+}
+fieldset{
+    background-color: orange;
+}
+legend{
+    background-color: orange;
+}
+form{
+    text-decoration-color: bisque;
+}
