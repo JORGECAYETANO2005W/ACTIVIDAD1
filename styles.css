@@ -1,16 +1,27 @@
-.Mayusculas{
-    text-transform: uppercase;
+.Mayusculas {
+  text-transform: uppercase;
 }
-body{
-    background-color: aqua;
-    background-image: url(fondo.jpg);
+body {
+  background-image: url(fondo.jpg);
+  background-size: cover;
 }
-fieldset{
-    background-color: orange;
+fieldset {
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  border-radius: 20px;
+  padding: 40px;
+  margin-bottom: 20px;
+  font-size: larger;
+  text-align: justify;
+  background-image: linear-gradient(to right, #b0dbe2, #eee);
 }
-legend{
-    background-color: orange;
+legend {
+  background-color: rgb(58, 114, 131);
 }
-form{
-    text-decoration-color: bisque;
+form {
+  text-align: center;
+  color: rgb(216, 216, 221); 
+  font-size: 2em; 
+  font-weight: bold;
 }
